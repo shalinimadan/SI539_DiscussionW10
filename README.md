@@ -1,4 +1,5 @@
-##SI539 W10 Discussion In-Class Activity##
+#SI539 W10 Discussion In-Class Activity#
+
 **Task:**
 You’ve been given the world’s worst form: a chaotic, inaccessible web form built with HTML and CSS. Your mission is to fix it using your understanding of accessibility and coursework so far. 
 You are required to comment out the syntax you will not be using. 
