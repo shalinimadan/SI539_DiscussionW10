@@ -14,6 +14,7 @@ Explain why your changes improve accessibility
 
 
 **Instructions:**
+
 Step 1: Open the project in your code editor. You will see two files: forms.html and style.css
 
 Style 2: Run the form in your browser and observe what makes it confusing, flashy, or difficult to use.
