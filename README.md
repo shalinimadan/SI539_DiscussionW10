@@ -15,9 +15,12 @@ Explain why your changes improve accessibility
 
 **Instructions:**
 Step 1: Open the project in your code editor. You will see two files: forms.html and style.css
+
 Style 2: Run the form in your browser and observe what makes it confusing, flashy, or difficult to use.
 Comment out the inaccessible parts of the code.
 Use in <!-- --> HTML
 Use /* ... */ in CSS
+
 Step 3: Write your corrected, accessible version directly below the commented-out code.
+
 Step 4: Add a one-line explanation as a comment describing why your fix improves accessibility.
